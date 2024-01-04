@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Baby shoes",
+    "image": "1.jpg",
+    "price": 400
+  },
+  {
+    "id": 2,
+    "name": "Blue hoddie",
+    "image": "2.jpg",
+    "price": 400
+  }
+]
