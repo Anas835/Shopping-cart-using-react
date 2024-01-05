@@ -28,6 +28,7 @@ Student should be able to apply filters and work with lists
 Able to apply optimizations and able to debug app well
 
 # How to run 
-first initailiste the server by traversing to the e-commerce-api
+first initailiste the server by traversing to the e-commerce-api by entering this line
+ node server.js
 ![Screenshot (30)](https://github.com/Anas835/Shopping-cart-using-react/assets/103097876/3d9bc71e-46db-4c34-ad63-0368aea98a71)
 
