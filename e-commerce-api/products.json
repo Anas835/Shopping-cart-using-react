@@ -1,0 +1,124 @@
+[
+    {
+      "id": 1,
+      "name": "Baby shoes",
+      "price": 20,
+      "image": "/images/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Blue hoodie",
+      "price": 20,
+      "image": "/images/2.jpg" 
+    },
+    {
+        "id": 3,
+        "name": "Upper Blue",
+        "price": 30,
+        "image": "/images/3.jpg" 
+      },
+      {
+        "id": 4,
+        "name": "Brown hat",
+        "price": 20,
+        "image": "/images/4.jpg" 
+      },
+      {
+        "id": 5,
+        "name": "Belt",
+        "price": 5,
+        "image": "/images/belt.jpg" 
+      },
+      {
+        "id": 6,
+        "name": "upper pink",
+        "price": 20,
+        "image": "/images/clothes-1.jpg" 
+      },
+      {
+        "id": 7,
+        "name": "top",
+        "price": 25,
+        "image": "/images/clothes-2.jpg" 
+      },
+      {
+        "id": 8,
+        "name": "Black frok",
+        "price": 30,
+        "image": "/images/clothes-3.jpg" 
+      },
+      {
+        "id": 9,
+        "name": "Black frok",
+        "price": 35,
+        "image": "/images/clothes-4.jpg" 
+      },
+      {
+        "id": 10,
+        "name": "Jacket brown",
+        "price": 20,
+        "image": "/images/jacket-1.jpg" 
+      },
+      {
+        "id": 11,
+        "name": "jacket dark brown",
+        "price": 25,
+        "image": "/images/jacket-2.jpg" 
+      },
+      {
+        "id": 12,
+        "name": "jacket Algae green",
+        "price": 25,
+        "image": "/images/jacket-3.jpg" 
+      },
+      {
+        "id": 13,
+        "name": "Heels",
+        "price": 10,
+        "image": "/images/party-wear-1.jpg" 
+      },
+      {
+        "id": 14,
+        "name": "jacket Blue",
+        "price": 25,
+        "image": "/images/jacket-4.jpg" 
+      },
+      {
+        "id": 15,
+        "name": "Coat brown",
+        "price": 30,
+        "image": "/images/jacket-5.jpg" 
+      },
+      {
+        "id": 16,
+        "name": "Coat brown",
+        "price": 30,
+        "image": "/images/jacket-6.jpg" 
+      },
+      {
+        "id": 17,
+        "name": "shoes nike white",
+        "price": 10,
+        "image": "/images/sports-1.jpg" 
+      },
+      {
+        "id": 18,
+        "name": "shoes black",
+        "price": 13,
+        "image": "/images/sports-2.jpg" 
+      },
+      {
+        "id": 19,
+        "name": "shoes nike",
+        "price": 15,
+        "image": "/images/sports-3.jpg" 
+      },
+      {
+        "id": 20,
+        "name": "shoes black",
+        "price": 10,
+        "image": "/images/sports-4.jpg" 
+      }
+
+  ]
+  
