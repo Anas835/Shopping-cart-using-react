@@ -35,5 +35,12 @@ node server.js
  
 ![Screenshot (30)](https://github.com/Anas835/Shopping-cart-using-react/assets/103097876/3d9bc71e-46db-4c34-ad63-0368aea98a71)
 
+# Screen shots of the working project
 
+![Screenshot (27)](https://github.com/Anas835/Shopping-cart-using-react/assets/103097876/83855709-7eb6-4684-9f63-6b76ae3d402e)
+# filtering
 
+![Screenshot (28)](https://github.com/Anas835/Shopping-cart-using-react/assets/103097876/7d620775-eab7-429d-9044-6629fb8dbda6)
+# Cart 
+
+![Screenshot (29)](https://github.com/Anas835/Shopping-cart-using-react/assets/103097876/b489b1d6-a382-4e27-8ba3-62b7c7a50eda)
